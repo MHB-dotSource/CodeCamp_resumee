@@ -1,0 +1,76 @@
+.body {
+    background-color: lightgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: rgb(15, 83, 15);
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.aside {
+    background-color: rgb(66, 66, 66);
+    color: white;
+    flex-basis: 20%;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.aside>div {
+    margin-left: 5%;
+}
+
+.flexRight {
+    flex-basis: 50%;
+    flex-shrink: 0;
+    flex-grow: 0;
+    margin-left: 20px;
+    margin-top: 20px;
+    align-self: flex-start;
+}
+
+.flexMiddle {
+    flex-basis: 30%;
+    flex-shrink: 0;
+    flex-grow: 0;
+
+}
+
+.img {
+    max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    border: solid white
+}
+
+.flexMain {
+    flex-basis: 80%;
+    flex-shrink: 0;
+    flex-grow: 0;
+    margin-left: 20px;
+}
+
+.flexItem {
+    align-self: baseline;
+    margin-left: 5px;
+}
+
+.flexItemRight {
+    margin-left: 3%;
+
+    align-self: baseline;
+}
+
+.btn {
+    background-color: lightgray;
+}
