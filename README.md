@@ -29,7 +29,7 @@
 2. CSS - Flexbox
     - git branch:
     - goal: learn how flexboxes work
-    - task: user flexboxes to format the page into an header and a main
+    - task: user flexboxes to format the page into a header and a main
 3. CSS - styling and classes:
     - git branch:
     - goal: learn how CSS styles elements and use classes to do it effectively
