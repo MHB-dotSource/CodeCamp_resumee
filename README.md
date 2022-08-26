@@ -41,7 +41,7 @@
     - git branch: https://github.com/MHB-dotSource/CodeCamp_resumee/tree/Step-4--JS
     - goal: learn how to select an element using HTML-DOM and how to change its style via js
     - task: add buttons to the users education info to "collapse" it
-5. JS - OOP
+5. EXTRA JS - OOP
     - git branch: tbd
     - goal learn how Object oriented Programming works
     - task: create the skills sidebar dynamically from an array of skill-objects
