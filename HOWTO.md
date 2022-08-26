@@ -1,11 +1,11 @@
 # How to use this repository
-
+This repo is aimed at pupils at dotSource CodeCamp, that have no prior experience in programming
 ## GOAL
 - pupils learn what HTML, CSS and JS is
     -  are able to create a HTML document and structure it
     -  are able to use CSS to style their site
     -  are able to include JS-code into their site
-    -  know how to sepparate each component into a sepparate file and include it in the HTML file
+    -  know how to sepparate each component into a external file and include it in the HTML file
 
 ## SETUP
 - follow the setup in the README
